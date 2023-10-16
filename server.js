@@ -5,6 +5,7 @@ import path from "path";
 import { fileURLToPath } from "url";
 import { dirname } from "path";
 import guitarsRoute from "./routes/guitars.js";
+import cors from "cors";
 
 dotenv.config();
 
@@ -13,7 +14,7 @@ const __dirname = dirname(__filename);
 const app = express();
 const port = 5000;
 const clientUrl = "http://localhost:5000";
-
+app.use(cors());
 mongoose
   .connect(process.env.DB_CONNECTION)
   .then(() => {
