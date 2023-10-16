@@ -1,0 +1,597 @@
+[
+  {
+    "brand": "Fender",
+    "model": "Stratocaster",
+    "price": 999.99,
+    "color": "Sunburst",
+    "imageUrl": "https://example.com/guitar1.jpg"
+  },
+  {
+    "brand": "Gibson",
+    "model": "Les Paul",
+    "price": 1499.99,
+    "color": "Cherry Burst",
+    "imageUrl": "https://example.com/guitar2.jpg"
+  },
+  {
+    "brand": "Ibanez",
+    "model": "RG550",
+    "price": 799.95,
+    "color": "Black",
+    "imageUrl": "https://example.com/guitar3.jpg"
+  },
+  {
+    "brand": "PRS",
+    "model": "Custom 24",
+    "price": 1999.99,
+    "color": "Vintage Sunburst",
+    "imageUrl": "https://example.com/guitar4.jpg"
+  },
+  {
+    "brand": "Gretsch",
+    "model": "White Falcon",
+    "price": 2599.99,
+    "color": "White",
+    "imageUrl": "https://example.com/guitar5.jpg"
+  },
+  {
+    "brand": "Epiphone",
+    "model": "Les Paul Standard",
+    "price": 549.99,
+    "color": "Heritage Cherry Sunburst",
+    "imageUrl": "https://example.com/guitar6.jpg"
+  },
+  {
+    "brand": "Jackson",
+    "model": "Soloist",
+    "price": 1199.95,
+    "color": "Metallic Blue",
+    "imageUrl": "https://example.com/guitar7.jpg"
+  },
+  {
+    "brand": "Taylor",
+    "model": "814ce",
+    "price": 2999.99,
+    "color": "Natural",
+    "imageUrl": "https://example.com/guitar8.jpg"
+  },
+  {
+    "brand": "Martin",
+    "model": "D-28",
+    "price": 2499.99,
+    "color": "Vintage Sunburst",
+    "imageUrl": "https://example.com/guitar9.jpg"
+  },
+  {
+    "brand": "Gibson",
+    "model": "SG Standard",
+    "price": 1399.99,
+    "color": "Ebony",
+    "imageUrl": "https://example.com/guitar10.jpg"
+  },
+  {
+    "brand": "Fender",
+    "model": "Telecaster",
+    "price": 899.99,
+    "color": "Butterscotch Blonde",
+    "imageUrl": "https://example.com/guitar11.jpg"
+  },
+  {
+    "brand": "ESP",
+    "model": "LTD EC-1000",
+    "price": 1099.99,
+    "color": "Vintage Black",
+    "imageUrl": "https://example.com/guitar12.jpg"
+  },
+  {
+    "brand": "Gretsch",
+    "model": "Streamliner",
+    "price": 599.99,
+    "color": "Gretsch Orange",
+    "imageUrl": "https://example.com/guitar13.jpg"
+  },
+  {
+    "brand": "Jackson",
+    "model": "Rhoads RR3",
+    "price": 899.95,
+    "color": "Black with White Pinstripes",
+    "imageUrl": "https://example.com/guitar14.jpg"
+  },
+  {
+    "brand": "Martin",
+    "model": "HD-28",
+    "price": 2999.99,
+    "color": "Natural",
+    "imageUrl": "https://example.com/guitar15.jpg"
+  },
+  {
+    "brand": "Schecter",
+    "model": "Hellraiser C-1",
+    "price": 899.99,
+    "color": "Black Cherry",
+    "imageUrl": "https://example.com/guitar16.jpg"
+  },
+  {
+    "brand": "Gibson",
+    "model": "ES-335",
+    "price": 2699.99,
+    "color": "Cherry",
+    "imageUrl": "https://example.com/guitar17.jpg"
+  },
+  {
+    "brand": "Fender",
+    "model": "Jazzmaster",
+    "price": 1199.99,
+    "color": "Olympic White",
+    "imageUrl": "https://example.com/guitar18.jpg"
+  },
+  {
+    "brand": "Epiphone",
+    "model": "SG Special",
+    "price": 349.99,
+    "color": "Ebony",
+    "imageUrl": "https://example.com/guitar19.jpg"
+  },
+  {
+    "brand": "PRS",
+    "model": "SE Custom 24",
+    "price": 799.99,
+    "color": "Fire Red Burst",
+    "imageUrl": "https://example.com/guitar20.jpg"
+  },
+  {
+    "brand": "Taylor",
+    "model": "214ce",
+    "price": 999.99,
+    "color": "Natural",
+    "imageUrl": "https://example.com/guitar21.jpg"
+  },
+  {
+    "brand": "Gibson",
+    "model": "Flying V",
+    "price": 1599.99,
+    "color": "Classic White",
+    "imageUrl": "https://example.com/guitar22.jpg"
+  },
+  {
+    "brand": "Ibanez",
+    "model": "JEM7V",
+    "price": 2499.95,
+    "color": "White",
+    "imageUrl": "https://example.com/guitar23.jpg"
+  },
+  {
+    "brand": "Martin",
+    "model": "D-18",
+    "price": 2299.99,
+    "color": "Sunburst",
+    "imageUrl": "https://example.com/guitar24.jpg"
+  },
+  {
+    "brand": "Gretsch",
+    "model": "G2622 Streamliner",
+    "price": 449.99,
+    "color": "Midnight Wine",
+    "imageUrl": "https://example.com/guitar25.jpg"
+  },
+  {
+    "brand": "Jackson",
+    "model": "DK2 Dinky",
+    "price": 699.95,
+    "color": "Metallic Black",
+    "imageUrl": "https://example.com/guitar26.jpg"
+  },
+  {
+    "brand": "Fender",
+    "model": "Precision Bass",
+    "price": 799.99,
+    "color": "Arctic White",
+    "imageUrl": "https://example.com/guitar27.jpg"
+  },
+  {
+    "brand": "ESP",
+    "model": "LTD M-1000",
+    "price": 1199.99,
+    "color": "See Thru Black",
+    "imageUrl": "https://example.com/guitar28.jpg"
+  },
+  {
+    "brand": "Taylor",
+    "model": "GS Mini",
+    "price": 599.99,
+    "color": "Mahogany",
+    "imageUrl": "https://example.com/guitar29.jpg"
+  },
+  {
+    "brand": "Gibson",
+    "model": "Les Paul Junior",
+    "price": 699.99,
+    "color": "Vintage Sunburst",
+    "imageUrl": "https://example.com/guitar30.jpg"
+  },
+  {
+    "brand": "Epiphone",
+    "model": "Les Paul Custom",
+    "price": 579.99,
+    "color": "Ebony",
+    "imageUrl": "https://example.com/guitar31.jpg"
+  },
+  {
+    "brand": "PRS",
+    "model": "SE Custom 22",
+    "price": 899.99,
+    "color": "Antique White",
+    "imageUrl": "https://example.com/guitar32.jpg"
+  },
+  {
+    "brand": "Gretsch",
+    "model": "G2420 Streamliner",
+    "price": 449.99,
+    "color": "Village Amber",
+    "imageUrl": "https://example.com/guitar33.jpg"
+  },
+  {
+    "brand": "Jackson",
+    "model": "King V KVXMG",
+    "price": 999.95,
+    "color": "Snow White with Black Pinstripes",
+    "imageUrl": "https://example.com/guitar34.jpg"
+  },
+  {
+    "brand": "Martin",
+    "model": "GPC-13E",
+    "price": 1999.99,
+    "color": "Natural",
+    "imageUrl": "https://example.com/guitar35.jpg"
+  },
+  {
+    "brand": "Schecter",
+    "model": "Omen-6",
+    "price": 399.99,
+    "color": "Black",
+    "imageUrl": "https://example.com/guitar36.jpg"
+  },
+  {
+    "brand": "Gibson",
+    "model": "SG Special",
+    "price": 899.99,
+    "color": "Faded Pelham Blue",
+    "imageUrl": "https://example.com/guitar37.jpg"
+  },
+  {
+    "brand": "Fender",
+    "model": "Jaguar",
+    "price": 1249.99,
+    "color": "Candy Apple Red",
+    "imageUrl": "https://example.com/guitar38.jpg"
+  },
+  {
+    "brand": "Ibanez",
+    "model": "RG450",
+    "price": 499.95,
+    "color": "Blue",
+    "imageUrl": "https://example.com/guitar39.jpg"
+  },
+  {
+    "brand": "Taylor",
+    "model": "110ce",
+    "price": 799.99,
+    "color": "Natural",
+    "imageUrl": "https://example.com/guitar40.jpg"
+  },
+  {
+    "brand": "Gretsch",
+    "model": "G2622 Streamliner",
+    "price": 449.99,
+    "color": "Gloss Walnut Stain",
+    "imageUrl": "https://example.com/guitar41.jpg"
+  },
+  {
+    "brand": "Jackson",
+    "model": "SL2 Soloist",
+    "price": 1499.95,
+    "color": "Satin Black",
+    "imageUrl": "https://example.com/guitar42.jpg"
+  },
+  {
+    "brand": "Martin",
+    "model": "000-15M",
+    "price": 1299.99,
+    "color": "Mahogany Burst",
+    "imageUrl": "https://example.com/guitar43.jpg"
+  },
+  {
+    "brand": "ESP",
+    "model": "LTD EC-256",
+    "price": 449.99,
+    "color": "Vintage Natural",
+    "imageUrl": "https://example.com/guitar44.jpg"
+  },
+  {
+    "brand": "Fender",
+    "model": "Mustang",
+    "price": 599.99,
+    "color": "Olympic White",
+    "imageUrl": "https://example.com/guitar45.jpg"
+  },
+  {
+    "brand": "Epiphone",
+    "model": "SG Standard Pro",
+    "price": 499.99,
+    "color": "Cherry",
+    "imageUrl": "https://example.com/guitar46.jpg"
+  },
+  {
+    "brand": "PRS",
+    "model": "SE Custom 24",
+    "price": 849.99,
+    "color": "Charcoal Burst",
+    "imageUrl": "https://example.com/guitar47.jpg"
+  },
+  {
+    "brand": "Gretsch",
+    "model": "G2622 Streamliner",
+    "price": 499.99,
+    "color": "Gunmetal",
+    "imageUrl": "https://example.com/guitar48.jpg"
+  },
+  {
+    "brand": "Jackson",
+    "model": "RRX24",
+    "price": 749.95,
+    "color": "Neon Green",
+    "imageUrl": "https://example.com/guitar49.jpg"
+  },
+  {
+    "brand": "Taylor",
+    "model": "214ce-K",
+    "price": 1099.99,
+    "color": "Koa",
+    "imageUrl": "https://example.com/guitar50.jpg"
+  },
+  {
+    "brand": "Gibson",
+    "model": "Explorer",
+    "price": 1699.99,
+    "color": "Antique Natural",
+    "imageUrl": "https://example.com/guitar51.jpg"
+  },
+  {
+    "brand": "Ibanez",
+    "model": "RGA42FM",
+    "price": 499.95,
+    "color": "Blue Burst",
+    "imageUrl": "https://example.com/guitar52.jpg"
+  },
+  {
+    "brand": "Martin",
+    "model": "D-35",
+    "price": 2999.99,
+    "color": "Natural",
+    "imageUrl": "https://example.com/guitar53.jpg"
+  },
+  {
+    "brand": "Gretsch",
+    "model": "G2420 Streamliner",
+    "price": 449.99,
+    "color": "Walnut Stain",
+    "imageUrl": "https://example.com/guitar54.jpg"
+  },
+  {
+    "brand": "Jackson",
+    "model": "KV2 King V",
+    "price": 2199.95,
+    "color": "Black",
+    "imageUrl": "https://example.com/guitar55.jpg"
+  },
+  {
+    "brand": "Fender",
+    "model": "Jazz Bass",
+    "price": 999.99,
+    "color": "Black",
+    "imageUrl": "https://example.com/guitar56.jpg"
+  },
+  {
+    "brand": "ESP",
+    "model": "LTD MH-1000",
+    "price": 999.99,
+    "color": "See Thru Black Cherry",
+    "imageUrl": "https://example.com/guitar57.jpg"
+  },
+  {
+    "brand": "Taylor",
+    "model": "214ce Plus",
+    "price": 1299.99,
+    "color": "Natural",
+    "imageUrl": "https://example.com/guitar58.jpg"
+  },
+  {
+    "brand": "Gibson",
+    "model": "Firebird",
+    "price": 1999.99,
+    "color": "Vintage Sunburst",
+    "imageUrl": "https://example.com/guitar59.jpg"
+  },
+  {
+    "brand": "Epiphone",
+    "model": "Explorer",
+    "price": 449.99,
+    "color": "Ebony",
+    "imageUrl": "https://example.com/guitar60.jpg"
+  },
+  {
+    "brand": "PRS",
+    "model": "SE Custom 24",
+    "price": 849.99,
+    "color": "Aqua Marine",
+    "imageUrl": "https://example.com/guitar61.jpg"
+  },
+  {
+    "brand": "Gretsch",
+    "model": "G2622 Streamliner",
+    "price": 499.99,
+    "color": "Broad'Tron Black",
+    "imageUrl": "https://example.com/guitar62.jpg"
+  },
+  {
+    "brand": "Jackson",
+    "model": "Soloist SL3X",
+    "price": 899.95,
+    "color": "Satin Black",
+    "imageUrl": "https://example.com/guitar63.jpg"
+  },
+  {
+    "brand": "Martin",
+    "model": "D-45",
+    "price": 8999.99,
+    "color": "Natural",
+    "imageUrl": "https://example.com/guitar64.jpg"
+  },
+  {
+    "brand": "Schecter",
+    "model": "C-1 SLS Elite",
+    "price": 1299.99,
+    "color": "Black Fade Burst",
+    "imageUrl": "https://example.com/guitar65.jpg"
+  },
+  {
+    "brand": "Fender",
+    "model": "Mustang Bass",
+    "price": 799.99,
+    "color": "Sonic Blue",
+    "imageUrl": "https://example.com/guitar66.jpg"
+  },
+  {
+    "brand": "ESP",
+    "model": "LTD EC-401",
+    "price": 799.99,
+    "color": "Vintage Black",
+    "imageUrl": "https://example.com/guitar67.jpg"
+  },
+  {
+    "brand": "Taylor",
+    "model": "GS Mini-e Koa",
+    "price": 799.99,
+    "color": "Koa",
+    "imageUrl": "https://example.com/guitar68.jpg"
+  },
+  {
+    "brand": "Gibson",
+    "model": "SG Standard '61 Maestro Vibrola",
+    "price": 1999.99,
+    "color": "Vintage Cherry",
+    "imageUrl": "https://example.com/guitar69.jpg"
+  },
+  {
+    "brand": "Ibanez",
+    "model": "RG550 Genesis Collection",
+    "price": 1099.95,
+    "color": "Desert Sun Yellow",
+    "imageUrl": "https://example.com/guitar70.jpg"
+  },
+  {
+    "brand": "Martin",
+    "model": "000-28",
+    "price": 3199.99,
+    "color": "Natural",
+    "imageUrl": "https://example.com/guitar71.jpg"
+  },
+  {
+    "brand": "Gretsch",
+    "model": "G2622 Streamliner",
+    "price": 449.99,
+    "color": "Flagstaff Sunset",
+    "imageUrl": "https://example.com/guitar72.jpg"
+  },
+  {
+    "brand": "Jackson",
+    "model": "DKMGT Dinky",
+    "price": 899.95,
+    "color": "Trans Black",
+    "imageUrl": "https://example.com/guitar73.jpg"
+  },
+  {
+    "brand": "Fender",
+    "model": "Jazzmaster American Professional II",
+    "price": 1549.99,
+    "color": "Mystic Surf Green",
+    "imageUrl": "https://example.com/guitar74.jpg"
+  },
+  {
+    "brand": "Epiphone",
+    "model": "Les Paul Standard PlusTop Pro",
+    "price": 599.99,
+    "color": "Heritage Cherry Sunburst",
+    "imageUrl": "https://example.com/guitar75.jpg"
+  },
+  {
+    "brand": "PRS",
+    "model": "SE Custom 24",
+    "price": 849.99,
+    "color": "Tobacco Sunburst",
+    "imageUrl": "https://example.com/guitar76.jpg"
+  },
+  {
+    "brand": "Taylor",
+    "model": "K24ce",
+    "price": 3499.99,
+    "color": "Kona Burst",
+    "imageUrl": "https://example.com/guitar77.jpg"
+  },
+  {
+    "brand": "Gibson",
+    "model": "Les Paul Standard '50s",
+    "price": 2499.99,
+    "color": "Bourbon Burst",
+    "imageUrl": "https://example.com/guitar78.jpg"
+  },
+  {
+    "brand": "ESP",
+    "model": "LTD MH-1007 EverTune",
+    "price": 1299.99,
+    "color": "See Thru Black",
+    "imageUrl": "https://example.com/guitar79.jpg"
+  },
+  {
+    "brand": "Fender",
+    "model": "American Ultra Stratocaster",
+    "price": 1899.99,
+    "color": "Aged Natural",
+    "imageUrl": "https://example.com/guitar80.jpg"
+  },
+  {
+    "brand": "Ibanez",
+    "model": "RGA42HPQM",
+    "price": 549.95,
+    "color": "Sapphire Blue Burst",
+    "imageUrl": "https://example.com/guitar81.jpg"
+  },
+  {
+    "brand": "Martin",
+    "model": "D-16E",
+    "price": 1899.99,
+    "color": "Natural",
+    "imageUrl": "https://example.com/guitar82.jpg"
+  },
+  {
+    "brand": "Gretsch",
+    "model": "G2420 Streamliner",
+    "price": 449.99,
+    "color": "Flagstaff Sunset",
+    "imageUrl": "https://example.com/guitar83.jpg"
+  },
+  {
+    "brand": "Jackson",
+    "model": "Soloist SLX",
+    "price": 699.95,
+    "color": "Metallic Red",
+    "imageUrl": "https://example.com/guitar84.jpg"
+  },
+  {
+    "brand": "Fender",
+    "model": "American Professional II Stratocaster",
+    "price": 1549.99,
+    "color": "Dark Night",
+    "imageUrl": "https://example.com/guitar85.jpg"
+  }
+]
